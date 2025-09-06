@@ -1,0 +1,23 @@
+[2025-09-04 11:29:00,049: INFO: main]: Logging is implemented
+[2025-09-06 13:33:19,196: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-06 13:33:19,360: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-06 13:33:19,645: INFO: common]: Created directory at: artifacts
+[2025-09-06 13:33:19,645: INFO: common]: Created directory at: artifacts/data_ingestion
+[2025-09-06 13:37:54,413: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-06 13:37:54,417: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-06 13:37:54,418: INFO: common]: Created directory at: artifacts
+[2025-09-06 13:37:54,418: INFO: common]: Created directory at: artifacts/data_ingestion
+[2025-09-06 13:40:28,727: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-06 13:40:28,731: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-06 13:40:28,734: INFO: common]: Created directory at: artifacts
+[2025-09-06 13:40:28,735: INFO: common]: Created directory at: artifacts/data_ingestion
+[2025-09-06 13:41:05,396: INFO: 3505038015]: File downloaded successfully
+[2025-09-06 14:17:33,726: INFO: main]: >>>>>> stage Data Ingestion Stage started <<<<<<
+[2025-09-06 14:17:33,726: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-06 14:17:33,732: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-06 14:17:33,732: INFO: common]: Created directory at: artifacts
+[2025-09-06 14:17:33,732: INFO: common]: Created directory at: artifacts/data_ingestion
+[2025-09-06 14:18:06,788: INFO: data_ingestion]: File downloaded successfully
+[2025-09-06 14:18:07,112: INFO: main]: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x
