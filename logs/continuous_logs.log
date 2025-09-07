@@ -21,3 +21,24 @@
 [2025-09-06 14:18:07,112: INFO: main]: >>>>>> stage Data Ingestion Stage completed <<<<<<
 
 x==========x
+[2025-09-07 11:49:28,993: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-07 11:49:29,932: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-07 11:49:30,475: INFO: common]: Created directory at: artifacts
+[2025-09-07 11:49:31,100: INFO: common]: Created directory at: artifacts/data_transformation
+[2025-09-07 12:31:00,018: INFO: main]: >>>>>> stage Data Ingestion Stage started <<<<<<
+[2025-09-07 12:31:00,039: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-07 12:31:00,079: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-07 12:31:00,080: INFO: common]: Created directory at: artifacts
+[2025-09-07 12:31:00,082: INFO: common]: Created directory at: artifacts/data_ingestion
+[2025-09-07 12:31:00,082: INFO: data_ingestion]: File already exists
+[2025-09-07 12:31:00,817: INFO: main]: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x
+[2025-09-07 12:31:00,817: INFO: main]: >>>>>> stage Data Transformation Stage started <<<<<<
+[2025-09-07 12:31:00,822: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-07 12:31:00,823: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-07 12:31:00,824: INFO: common]: Created directory at: artifacts
+[2025-09-07 12:31:00,825: INFO: common]: Created directory at: artifacts/data_transformation
+[2025-09-07 12:31:10,575: INFO: main]: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x
