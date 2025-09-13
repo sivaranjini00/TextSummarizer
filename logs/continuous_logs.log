@@ -42,3 +42,115 @@ x==========x
 [2025-09-07 12:31:10,575: INFO: main]: >>>>>> stage Data Transformation Stage completed <<<<<<
 
 x==========x
+[2025-09-07 13:26:58,311: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-07 13:26:58,533: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-07 13:26:58,565: INFO: common]: Created directory at: artifacts
+[2025-09-07 13:26:58,565: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-07 13:27:04,058: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-07 13:55:26,088: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/pytorch_model.bin: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-07 13:55:43,990: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/pytorch_model.bin: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-08 11:55:07,597: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-08 11:55:07,866: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-08 11:55:07,866: INFO: common]: Created directory at: artifacts
+[2025-09-08 11:55:07,866: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-08 11:55:15,017: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-08 12:35:18,656: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-08 12:35:18,869: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-08 12:35:18,878: INFO: common]: Created directory at: artifacts
+[2025-09-08 12:35:18,886: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-08 12:35:24,261: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-08 12:42:18,139: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/pytorch_model.bin: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-08 12:44:44,991: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/pytorch_model.bin: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-08 12:58:52,537: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-08 12:58:52,542: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-08 12:58:52,544: INFO: common]: Created directory at: artifacts
+[2025-09-08 12:58:52,547: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-08 12:58:56,225: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-08 13:13:14,761: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/pytorch_model.bin: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-08 13:32:29,628: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-08 13:32:29,874: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-08 13:32:29,874: INFO: common]: Created directory at: artifacts
+[2025-09-08 13:32:29,874: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-08 13:32:40,463: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-08 13:33:50,741: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/pytorch_model.bin: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-08 13:34:16,164: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/main/pytorch_model.bin: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-08 13:42:47,318: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-08 13:49:28,008: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-08 13:49:28,012: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-08 13:49:28,016: INFO: common]: Created directory at: artifacts
+[2025-09-08 13:49:28,018: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-08 13:54:06,013: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-08 13:54:06,021: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-08 13:54:06,022: INFO: common]: Created directory at: artifacts
+[2025-09-08 13:54:06,024: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-09 10:12:49,520: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-09 10:12:49,699: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-09 10:12:49,724: INFO: common]: Created directory at: artifacts
+[2025-09-09 10:12:49,724: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-09 10:13:17,839: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-09 10:39:44,699: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/refs%2Fpr%2F12/model.safetensors: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-09 12:34:02,373: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-09 12:34:02,506: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-09 12:34:02,530: INFO: common]: Created directory at: artifacts
+[2025-09-09 12:34:02,530: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-09 12:34:25,086: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-09 12:45:05,662: WARNING: file_download]: Error while downloading from https://huggingface.co/google/pegasus-cnn_dailymail/resolve/refs%2Fpr%2F12/model.safetensors: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+[2025-09-09 14:27:48,203: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-09 14:27:48,652: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-09 14:27:48,938: INFO: common]: Created directory at: artifacts
+[2025-09-09 14:27:48,945: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-09 14:28:06,072: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-09 14:56:02,713: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-09 14:56:03,260: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-09 14:56:03,268: INFO: common]: Created directory at: artifacts
+[2025-09-09 14:56:03,269: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-09 15:39:46,078: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-09 15:39:46,125: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-09 15:39:46,127: INFO: common]: Created directory at: artifacts
+[2025-09-09 15:39:46,197: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-09 16:04:04,292: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-09 16:04:04,358: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-09 16:04:04,366: INFO: common]: Created directory at: artifacts
+[2025-09-09 16:04:04,366: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-10 09:32:34,273: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-10 09:32:34,445: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-10 09:32:34,486: INFO: common]: Created directory at: artifacts
+[2025-09-10 09:32:34,486: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-10 10:45:53,280: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-10 10:45:53,303: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-10 10:45:53,310: INFO: common]: Created directory at: artifacts
+[2025-09-10 10:45:53,310: INFO: common]: Created directory at: artifacts/model_trainer
+[2025-09-10 12:28:14,876: WARNING: file_download]: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-09-12 12:01:47,892: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-12 12:01:48,073: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-12 12:01:48,098: INFO: common]: Created directory at: artifacts
+[2025-09-12 12:01:48,101: INFO: common]: Created directory at: artifacts/model_evaluation
+[2025-09-12 12:12:00,300: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-12 12:12:00,303: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-12 12:12:00,308: INFO: common]: Created directory at: artifacts
+[2025-09-12 12:12:00,310: INFO: common]: Created directory at: artifacts/model_evaluation
+[2025-09-12 12:12:34,587: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-12 12:12:34,592: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-12 12:12:34,595: INFO: common]: Created directory at: artifacts
+[2025-09-12 12:12:34,597: INFO: common]: Created directory at: artifacts/model_evaluation
+[2025-09-12 12:16:15,052: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-12 12:16:15,056: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-12 12:16:15,058: INFO: common]: Created directory at: artifacts
+[2025-09-12 12:16:15,060: INFO: common]: Created directory at: artifacts/model_evaluation
+[2025-09-12 12:46:56,748: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-12 12:46:57,465: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-12 12:46:57,474: INFO: common]: Created directory at: artifacts
+[2025-09-12 12:46:57,474: INFO: common]: Created directory at: artifacts/model_evaluation
+[2025-09-12 14:43:14,714: INFO: common]: yaml file: config\config.yaml loaded successfully
+[2025-09-12 14:43:15,188: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-09-12 14:43:15,249: INFO: common]: Created directory at: artifacts
+[2025-09-12 14:43:15,252: INFO: common]: Created directory at: artifacts/model_evaluation
