@@ -1,7 +1,7 @@
-🤖 Hugging Face Text Summarizer
+## 🤖 Hugging Face Text Summarizer
 
 
-📌 Overview
+## 📌 Overview
 
 Hugging Face Text Summarizer is an end-to-end NLP Text Summarization solution built using Hugging Face pre-trained models and the Transformers library.
 
@@ -9,7 +9,7 @@ It integrates Hugging Face models into a complete pipeline covering data ingesti
 
 This project demonstrates best practices for integrating open-source models into real-world applications.
 
-🔑 Key Highlights
+## 🔑 Key Highlights
 
 🔍 End-to-end NLP pipeline: data ingestion → preprocessing → model fine-tuning → API deployment
 
@@ -21,7 +21,7 @@ This project demonstrates best practices for integrating open-source models into
 
 🏗️ Modular and scalable architecture, easy to extend for other NLP tasks
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 TextSummarizer-HF/          # Root folder
 ├── app/                     # FastAPI application
 │   ├── api/                 # API routes (text, file, URL summarization)
