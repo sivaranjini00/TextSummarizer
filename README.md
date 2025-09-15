@@ -1,5 +1,11 @@
 ## 🤖 Hugging Face Text Summarizer
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-yellow)
+![Domain](https://img.shields.io/badge/Domain-NLP-purple)
+![Framework](https://img.shields.io/badge/Framework-FastAPI-orange)
+
 
 ## 📌 Overview
 
