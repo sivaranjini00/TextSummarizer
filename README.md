@@ -22,6 +22,7 @@ This project demonstrates best practices for integrating open-source models into
 🏗️ Modular and scalable architecture, easy to extend for other NLP tasks
 
 ## 🏗️ Project Structure
+```text
 TextSummarizer-HF/          # Root folder
 ├── app/                     # FastAPI application
 │   ├── api/                 # API routes (text, file, URL summarization)
